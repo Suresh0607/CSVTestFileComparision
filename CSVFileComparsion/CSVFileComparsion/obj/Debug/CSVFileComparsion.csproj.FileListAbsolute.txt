@@ -1,0 +1,7 @@
+C:\git\FileComparision\CSVFileComparsion\CSVFileComparsion\bin\Debug\CSVFileComparsion.exe.config
+C:\git\FileComparision\CSVFileComparsion\CSVFileComparsion\bin\Debug\CSVFileComparsion.exe
+C:\git\FileComparision\CSVFileComparsion\CSVFileComparsion\bin\Debug\CSVFileComparsion.pdb
+C:\git\FileComparision\CSVFileComparsion\CSVFileComparsion\obj\Debug\CSVFileComparsion.csprojAssemblyReference.cache
+C:\git\FileComparision\CSVFileComparsion\CSVFileComparsion\obj\Debug\CSVFileComparsion.csproj.CoreCompileInputs.cache
+C:\git\FileComparision\CSVFileComparsion\CSVFileComparsion\obj\Debug\CSVFileComparsion.exe
+C:\git\FileComparision\CSVFileComparsion\CSVFileComparsion\obj\Debug\CSVFileComparsion.pdb
